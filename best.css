@@ -1,0 +1,24 @@
+.products {
+    margin-top: 50px;
+}
+
+.product {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.product img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+}
+footer{
+background-color: aqua;
+}
+
